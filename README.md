@@ -33,12 +33,7 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 ####บันทึกผลการทดลอง
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-
+![](https://github.com/Hathaichanok241/LAB-04/blob/master/4.1.JPG?raw=true)
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้    
 
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P4.png)
